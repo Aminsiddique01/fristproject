@@ -1,4 +1,4 @@
 # fristproject
 This is my first git repository
 <br>
-Auther "Shradha-Khapra"
+Auther "Amin" 
